@@ -1,0 +1,25 @@
+=============== Jan 17, 2019 (+07) ===============
+12:20:13.943118 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:20:13.944016 db@open opening
+12:20:13.945395 version@stat F·[] S·0B[] Sc·[]
+12:20:13.945785 db@janitor F·2 G·0
+12:20:13.946078 db@open done T·1.997031ms
+=============== Jan 17, 2019 (+07) ===============
+12:20:25.765224 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:20:25.765559 version@stat F·[] S·0B[] Sc·[]
+12:20:25.765592 db@open opening
+12:20:25.765699 journal@recovery F·1
+12:20:25.766914 journal@recovery recovering @1
+12:20:25.768033 memdb@flush created L0@2 N·18 S·720B "\xe8Җ..\v\x11\xcd,v12":"\xe8Җ..\v\x124,v11"
+12:20:25.769214 version@stat F·[1] S·720B[720B] Sc·[0.25]
+12:20:25.770282 db@janitor F·3 G·0
+12:20:25.770326 db@open done T·4.71389ms
+=============== Jan 17, 2019 (+07) ===============
+12:22:13.753014 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:22:13.753392 version@stat F·[1] S·720B[720B] Sc·[0.25]
+12:22:13.753427 db@open opening
+12:22:13.753529 journal@recovery F·1
+12:22:13.754676 journal@recovery recovering @3
+12:22:13.755873 version@stat F·[1] S·720B[720B] Sc·[0.25]
+12:22:13.756959 db@janitor F·3 G·0
+12:22:13.757003 db@open done T·3.555074ms
